@@ -2,9 +2,13 @@
   "name": "vue-setting",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://hksoftcorn.github.io/vue-setting",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
+    "predeploy": "vue-cli-service build",
+    "deploy": "gh-pages -d dist",
+    "clean": "gh-pages-clean",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint"
   },

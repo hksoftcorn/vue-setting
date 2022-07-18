@@ -1,17 +1,17 @@
 # vue-setting
 ## vue setting command
+```
 npm install --global yarn
 yarn --version
 
 vue create vue-youtube
 	Manually select features
-	<<설정 : 아래 이미지 참고>>
 
 cd vue-youtube
 yarn serve
 
 yarn add gh-pages -D
-
+```
 
 ## Project setup
 ```
