@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="웹 제작을 시작합니다 : D" />
+  <HelloWorld msg="웹 제작을 시작합니다 : D 2222" />
 </template>
 
 <script>
